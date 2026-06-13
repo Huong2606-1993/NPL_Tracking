@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "public": ".",
+    "ignore": ["firebase.json", ".github/**"],
+    "rewrites": [{"source": "**", "destination": "/NPL_Tracking_Firebase_v6_9_6_2026_fixed_v2.html"}]
+  }
+}
